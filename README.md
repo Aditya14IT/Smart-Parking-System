@@ -101,12 +101,12 @@ It is ideal for **small to medium-scale** parking facilities like shopping malls
 
 ## 📑 License
   
-© 2025 Ritesh Kashyap
+© 2025 Aditya Mourya
 
 ---
 
 ## 📞 Contact
-Email: riteshkashyap2525@gmail.com 
+Email: mauryaaditya1403@gmail.com
 
 ---
 
